@@ -1,0 +1,5 @@
+print(type({10,20,30.5}))
+print(type([1,2,3.14,'nagpur']))
+print(type({12:'simple',43:'complicated'}))
+print(type("check it out"))
+print(type(3+2j))

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="programms_confusion" />
+    <orderEntry type="module" module-name="nptl" />
+    <orderEntry type="module" module-name="detection demo" />
+    <orderEntry type="module" module-name="exception_handling" />
+    <orderEntry type="module" module-name="fileinpputoutput" />
+    <orderEntry type="module" module-name="Miscellancy" />
+    <orderEntry type="module" module-name="threading" />
+  </component>
+</module>

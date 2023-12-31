@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chapter5/.idea/chapter5.iml" filepath="$PROJECT_DIR$/../chapter5/.idea/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_10/.idea/chapter_10.iml" filepath="$PROJECT_DIR$/../chapter_10/.idea/chapter_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_11/.idea/chapter_11.iml" filepath="$PROJECT_DIR$/../chapter_11/.idea/chapter_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_12/.idea/chapter_12.iml" filepath="$PROJECT_DIR$/../chapter_12/.idea/chapter_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_13/.idea/chapter_13.iml" filepath="$PROJECT_DIR$/../chapter_13/.idea/chapter_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_14/.idea/chapter_14.iml" filepath="$PROJECT_DIR$/../chapter_14/.idea/chapter_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_15/.idea/chapter_15.iml" filepath="$PROJECT_DIR$/../chapter_15/.idea/chapter_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_16/.idea/chapter_16.iml" filepath="$PROJECT_DIR$/../chapter_16/.idea/chapter_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_17/.idea/chapter_17.iml" filepath="$PROJECT_DIR$/../chapter_17/.idea/chapter_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_18/.idea/chapter_18.iml" filepath="$PROJECT_DIR$/../chapter_18/.idea/chapter_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_19/.idea/chapter_19.iml" filepath="$PROJECT_DIR$/../chapter_19/.idea/chapter_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_20/.idea/chapter_20.iml" filepath="$PROJECT_DIR$/../chapter_20/.idea/chapter_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_21/.idea/chapter_21.iml" filepath="$PROJECT_DIR$/../chapter_21/.idea/chapter_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_22/.idea/chapter_22.iml" filepath="$PROJECT_DIR$/../chapter_22/.idea/chapter_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_23/.idea/chapter_23.iml" filepath="$PROJECT_DIR$/../chapter_23/.idea/chapter_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_24/.idea/chapter_24.iml" filepath="$PROJECT_DIR$/../chapter_24/.idea/chapter_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_4/.idea/chapter_4.iml" filepath="$PROJECT_DIR$/../chapter_4/.idea/chapter_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_6/.idea/chapter_6.iml" filepath="$PROJECT_DIR$/../chapter_6/.idea/chapter_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_7/.idea/chapter_7.iml" filepath="$PROJECT_DIR$/../chapter_7/.idea/chapter_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chapter_9/.idea/chapter_9.iml" filepath="$PROJECT_DIR$/../chapter_9/.idea/chapter_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../delproject/.idea/delproject.iml" filepath="$PROJECT_DIR$/../delproject/.idea/delproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liveproject/.idea/liveproject.iml" filepath="$PROJECT_DIR$/../liveproject/.idea/liveproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../module/.idea/module.iml" filepath="$PROJECT_DIR$/../module/.idea/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../problem_7.1/.idea/problem_7.1.iml" filepath="$PROJECT_DIR$/../problem_7.1/.idea/problem_7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proj1/.idea/proj1.iml" filepath="$PROJECT_DIR$/../proj1/.idea/proj1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/.idea/pythonProject1.iml" />
+    </modules>
+  </component>
+</project>
